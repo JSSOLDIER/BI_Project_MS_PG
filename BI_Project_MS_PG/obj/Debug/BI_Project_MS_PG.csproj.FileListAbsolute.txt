@@ -1,0 +1,16 @@
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\BI_Project_MS_PG.exe.config
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\obj\Debug\BI_Project_MS_PG.csprojResolveAssemblyReference.cache
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\BI_Project_MS_PG.exe
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\BI_Project_MS_PG.pdb
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\MySql.Data.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\Mono.Security.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\Npgsql.pdb
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\Npgsql.xml
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\de\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\es\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\fi\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\fr\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\ja\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\bin\Debug\zh-CN\Npgsql.resources.dll
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\obj\Debug\BI_Project_MS_PG.exe
+c:\users\tarek\documents\visual studio 2013\Projects\BI_Project_MS_PG\BI_Project_MS_PG\obj\Debug\BI_Project_MS_PG.pdb
