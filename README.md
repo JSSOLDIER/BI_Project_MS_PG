@@ -2,7 +2,7 @@
 
 Author : Tarek Ben Salah
 
-Licence : BSD 2
+Licence : BSD
 
 Description:
 A simple ETL console application: From MySQL transactional Database to PostgreSQL data warehouse.
